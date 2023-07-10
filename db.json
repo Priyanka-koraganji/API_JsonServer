@@ -1,0 +1,89 @@
+{
+    "products": [
+        {
+            "id": "123456",
+            "productName": "Smartphone",
+            "description": "A high-end smartphone with advanced features and powerful performance.",
+            "price": 999.99,
+            "availability": true,
+            "reviews": [
+                {
+                    "rating": 4.5,
+                    "comment": "Great phone! Fast and reliable."
+                },
+                {
+                    "rating": 5,
+                    "comment": "Best smartphone I've ever owned!"
+                }
+            ]
+        },
+        {
+            "id": "789012",
+            "productName": "Laptop",
+            "description": "A sleek and lightweight laptop with a high-resolution display and long battery life.",
+            "price": 1499.00,
+            "availability": true,
+            "reviews": [
+                {
+                    "rating": 4,
+                    "comment": "Excellent laptop for work and multimedia tasks."
+                },
+                {
+                    "rating": 4.5,
+                    "comment": "Fast performance and great build quality."
+                }
+            ]
+        },
+        {
+            "id": "345678",
+            "productName": "Headphones",
+            "description": "Wireless headphones with noise-cancellation and immersive sound quality.",
+            "price": 199.99,
+            "availability": false,
+            "reviews": [
+                {
+                    "rating": 3.5,
+                    "comment": "Decent headphones, but the noise cancellation could be better."
+                },
+                {
+                    "rating": 4,
+                    "comment": "Good sound quality and comfortable to wear."
+                }
+            ]
+        },
+        {
+            "id": "901234",
+            "productName": "Smart TV",
+            "description": "A 55-inch 4K Smart TV with built-in streaming services and HDR support.",
+            "price": 899.00,
+            "availability": true,
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "Awesome TV! The picture quality is stunning."
+                },
+                {
+                    "rating": 4.5,
+                    "comment": "Easy to use and great smart features."
+                }
+            ]
+        },
+        {
+            "id": "567890",
+            "productName": "Wireless Earbuds",
+            "description": "True wireless earbuds with long battery life and water-resistant design.",
+            "price": 79.99,
+            "availability": true,
+            "reviews": [
+                {
+                    "rating": 4,
+                    "comment": "Good value for the price, sound quality is decent."
+                },
+                {
+                    "rating": 4.5,
+                    "comment": "Comfortable fit and reliable connectivity."
+                }
+            ]
+        }
+    ]
+}
